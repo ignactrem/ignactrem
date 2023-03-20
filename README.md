@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ignactrem
-- 👀 I’m interested in blockchain technologies
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on blockchain technologies
 - 📫 How to reach me ...
 
